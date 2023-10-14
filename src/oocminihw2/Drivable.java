@@ -8,7 +8,8 @@ package oocminihw2;
  *
  * @author sweis
  */
-public interface Drivable {
+public interface Drivable{
+    
     public void accelerate(float speed);
     public void brake();
     public void turn(float angle);

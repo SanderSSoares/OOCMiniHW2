@@ -9,6 +9,7 @@ package oocminihw2;
  * @author sweis
  */
 public abstract class Vehicle {
+    
     private float speed;
     private float direction = 0;
     private String make;
